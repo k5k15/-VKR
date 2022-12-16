@@ -1,0 +1,1 @@
+"C:\ProgramData\Anaconda3\python.exe" "E:\1. Data Science 2022 2.0 (МГТУ имени Н.Э. Баумана)\000 Аттестационное задание ВКР DS\Итог\application\application\app.py"
